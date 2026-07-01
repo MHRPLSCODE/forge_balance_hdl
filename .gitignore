@@ -1,0 +1,16 @@
+# Icarus Verilog & GTKWave Simulation Files
+*.vcd
+*.vvp
+*.out
+
+# FPGA Synthesis & Build Files (GCSH)
+*.bit
+*.bin
+*.log
+*.rpt
+*.jou
+*.str
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
