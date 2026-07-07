@@ -2,7 +2,6 @@
 
 FPGA motor controller for a two-wheeled self-balancing robot, built on the **Vicharak Shrike Lite** (Renesas SLG47910 ForgeFPGA, 1120 LUTs + RP2040).
 
-**AICTE IDEA Lab Summer Internship 2026** — USICT, GGSIPU, New Delhi
 
 ## Architecture
 
@@ -147,5 +146,5 @@ mpremote exec "import shrike; shrike.flash('FPGA_bitstream_FLASH_MEM.bin')"
 
 ## Author
 
-Mohammed Hasan Rizvi — B.Tech ECE, 4th Year, USICT, GGSIPU
-Supervisor: Dr. Mansi Jhamb | Mentor: Dr. Ankita Sarkar
+MHR ECE'27
+
